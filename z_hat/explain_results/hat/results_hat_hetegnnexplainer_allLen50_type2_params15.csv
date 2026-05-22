@@ -1,0 +1,3 @@
+edge_mask_avg_max_init,edge_mask_connected_init,edge_mask_entropy_init,edge_mask_size_init,edge_mask_sparsity_init,explainer,fidelity_gnn_acc+,fidelity_gnn_acc-,fidelity_gnn_acc_cs,fidelity_gnn_prob+,fidelity_gnn_prob-,fidelity_gnn_prob_cs,num_test_final,number_of_edges,seed,topk,topk_values,train_model_single,unfaithfulness
+0.546437952204252,0.15224537419102638,3.4210110475616218,37.4,0.9890193775689958,hetegnnexplainer,0.26,0.1,0.40344827586206894,0.1772,0.1211,0.2949564219667858,50,3406,123,15,15,hat,0.0933
+0.5605241098364918,0.13157283706631534,3.528570058956231,41.76,0.9877392836171461,hetegnnexplainer,0.24,0.08,0.3806896551724138,0.1639,0.0823,0.27809193736156057,50,3406,14,15,15,hat,0.0487
