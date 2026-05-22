@@ -1,0 +1,9 @@
+edge_mask_avg_max_init,edge_mask_connected_init,edge_mask_entropy_init,edge_mask_size_init,edge_mask_sparsity_init,explainer,fidelity_gnn_acc+,fidelity_gnn_acc-,fidelity_gnn_acc_cs,fidelity_gnn_prob+,fidelity_gnn_prob-,fidelity_gnn_prob_cs,num_test_final,number_of_edges,topk,topk_values,train_model_single,unfaithfulness,消融内容
+0.542364551,0.143713925,3.423687804,38.2,0.988784498,hetegnnexplainer,0.6,0.2,0.685714286,0.376,0.1811,0.51533907,10,3406,15,15,model,0.1952,
+0.542364551,0.143713925,3.423687804,38.2,0.988784498,hetegnnexplainer,0.5,0.2,0.615384615,0.3665,0.192,0.504293041,10,3406,15,15,model,0.2125,
+1,,,,,,,,,,,,,,,,,,
+0.581588179,0.143713925,3.432866387,38.2,0.988784498,hetegnnexplainer,0.5,0.3,0.583333333,0.3178,0.1998,0.454943023,10,3406,15,15,model,0.1876,
+2,,,,,,,,,,,,,,,,,,
+0.581588179,0.143713925,3.432866387,38.2,0.988784498,hetegnnexplainer,0.4,0.3,0.509090909,0.2798,0.1966,0.415053934,10,3406,15,15,model,0.1899,去掉对边和特征扰动的处理
+0.511935633,0.143713925,3.406156026,38.2,0.988784498,hetegnnexplainer,0.4,0.1,0.553846154,0.2587,0.0925,0.402621281,10,3406,15,15,model,0.0738,去掉对异质边的处理
+0.440829955,0.143713925,3.427183688,38.2,0.988784498,hetegnnexplainer,0.5,0.3,0.583333333,0.3052,0.1823,0.444524582,10,3406,15,15,model,0.1913,
